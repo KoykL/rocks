@@ -2,7 +2,7 @@ package = "plplot"
 version = "0-0"
 
 source = {
-  url = 'git://github.com/deepmind/plplot-ffi.git',
+  url = 'git+https://github.com/deepmind/plplot-ffi.git',
   branch = 'master'
 }
 

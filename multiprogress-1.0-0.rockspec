@@ -2,7 +2,7 @@ package = "multiprogress"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/ClementPinard/multiprogress"
+   url = "git+https://github.com/ClementPinard/multiprogress"
 }
 
 description = {

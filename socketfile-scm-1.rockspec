@@ -2,7 +2,7 @@ package = "socketfile"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/socketfile.git"
+   url = "git+https://github.com/torch/socketfile.git"
 }
 
 description = {

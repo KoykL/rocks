@@ -2,7 +2,7 @@ package = 'hdf5'
 version = '20-0'
 
 source = {
-   url = 'git://github.com/deepmind/torch-hdf5.git',
+   url = 'git+https://github.com/deepmind/torch-hdf5.git',
    branch = 'master'
 }
 

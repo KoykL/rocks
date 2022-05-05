@@ -2,7 +2,7 @@ package = "imgraph"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---imgraph",
+   url = "git+https://github.com/clementfarabet/lua---imgraph",
    tag = "1.0-0"
 }
 

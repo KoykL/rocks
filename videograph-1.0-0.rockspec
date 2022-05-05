@@ -2,7 +2,7 @@ package = "videograph"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/videograph",
+   url = "git+https://github.com/clementfarabet/videograph",
    tag = "1.0-0"
 }
 

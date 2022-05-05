@@ -2,7 +2,7 @@ package = "utf8"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/lua-utf8",
+   url = "git+https://github.com/clementfarabet/lua-utf8",
 }
 
 description = {

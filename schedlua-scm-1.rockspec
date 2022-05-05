@@ -2,7 +2,7 @@ package = "schedlua"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/schedlua",
+   url = "git+https://github.com/clementfarabet/schedlua",
    branch = "master",
    dir = 'schedlua',
 }

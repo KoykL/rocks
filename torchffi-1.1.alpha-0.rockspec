@@ -2,7 +2,7 @@ package = "torchffi"
 version = "1.1.alpha-0"
 
 source = {
-   url = "git://github.com/torch/ffi",
+   url = "git+https://github.com/torch/ffi",
    tag = "master"
 }
 

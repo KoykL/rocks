@@ -2,7 +2,7 @@ package = "rq-monitor"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/ocallaco/rq-monitor",
+   url = "git+https://github.com/ocallaco/rq-monitor",
    branch = "master",
    dir = "rq-monitor",
 }

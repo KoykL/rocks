@@ -2,7 +2,7 @@ package = "inn"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/szagoruyko/imagine-nn",
+   url = "git+https://github.com/szagoruyko/imagine-nn",
    tag = "master"
 }
 

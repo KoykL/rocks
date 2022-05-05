@@ -2,7 +2,7 @@ package = "restclient"
 version = "0.1-0"
 
 source = {
-   url = "git://github.com/clementfarabet/restclient",
+   url = "git+https://github.com/clementfarabet/restclient",
    branch = "master",
 }
 

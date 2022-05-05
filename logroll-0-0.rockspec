@@ -2,7 +2,7 @@ package = 'logroll'
 version = '0-0'
 
 source = {
-    url = 'git://github.com/akfidjeland/logroll.git',
+    url = 'git+https://github.com/akfidjeland/logroll.git',
     branch = 'master'
 }
 

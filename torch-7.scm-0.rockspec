@@ -3,7 +3,7 @@ package = "torch"
 version = "7.scm-0"
 
 source = {
-   url = "git://github.com/andresy/torch7-fakerock"
+   url = "git+https://github.com/andresy/torch7-fakerock"
 }
 
 description = {

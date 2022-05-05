@@ -2,7 +2,7 @@ package = "unsup"
 version = "0.1-0"
 
 source = {
-   url = "git://github.com/koraykv/unsup",
+   url = "git+https://github.com/koraykv/unsup",
    tag = "master"
 }
 

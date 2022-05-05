@@ -2,7 +2,7 @@ package = "nninit"
 version = "scm-1"
 
 source = {
-  url = "git://github.com/Kaixhin/nninit",
+  url = "git+https://github.com/Kaixhin/nninit",
   tag = "master"
 }
 

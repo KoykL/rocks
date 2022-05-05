@@ -2,7 +2,7 @@ package = "mattorch"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---mattorch",
+   url = "git+https://github.com/clementfarabet/lua---mattorch",
    tag = "1.0-0"
 }
 

@@ -2,7 +2,7 @@ package = "env"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/env.git",
+   url = "git+https://github.com/torch/env.git",
 }
 
 description = {

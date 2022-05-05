@@ -2,7 +2,7 @@ package = "eex"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/e-lab/eex",
+   url = "git+https://github.com/e-lab/eex",
    tag = "master"
 }
 

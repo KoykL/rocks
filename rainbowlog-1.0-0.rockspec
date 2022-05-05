@@ -2,7 +2,7 @@ package = "rainbowlog"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/cdluminate/torch-rainbowlog",
+   url = "git+https://github.com/cdluminate/torch-rainbowlog",
    tag = "master",
 }
 

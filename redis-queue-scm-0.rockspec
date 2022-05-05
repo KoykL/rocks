@@ -2,7 +2,7 @@ package = "redis-queue"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/ocallaco/redis-queue",
+   url = "git+https://github.com/ocallaco/redis-queue",
    branch = "master"
 }
 

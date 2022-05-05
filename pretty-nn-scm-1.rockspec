@@ -1,7 +1,7 @@
 package = 'pretty-nn'
 version = 'scm-1'
 
-source = {url = 'git://github.com/Atcold/torch-pretty-nn'}
+source = {url = 'git+https://github.com/Atcold/torch-pretty-nn'}
 
 description = {
    summary = 'Brings some colours to the borin nn',

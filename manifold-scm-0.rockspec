@@ -2,7 +2,7 @@ package = "manifold"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/clementfarabet/manifold"
+   url = "git+https://github.com/clementfarabet/manifold"
 }
 
 description = {

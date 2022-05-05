@@ -2,7 +2,7 @@ package = "fftw3"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/soumith/fftw3-ffi.git"
+   url = "git+https://github.com/soumith/fftw3-ffi.git"
 }
 
 description = {

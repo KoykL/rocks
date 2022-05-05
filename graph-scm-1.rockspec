@@ -2,7 +2,7 @@ package = "graph"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/graph",
+   url = "git+https://github.com/torch/graph",
    tag = "master"
 }
 

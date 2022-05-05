@@ -2,7 +2,7 @@ package = "optim"
 version = "1.0.5-0"
 
 source = {
-   url = "git://github.com/torch/optim",
+   url = "git+https://github.com/torch/optim",
 }
 
 description = {

@@ -2,7 +2,7 @@ package = "persist"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/clementfarabet/persist",
+   url = "git+https://github.com/clementfarabet/persist",
    branch = "master",
 }
 

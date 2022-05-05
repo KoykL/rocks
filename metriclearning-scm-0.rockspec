@@ -2,7 +2,7 @@ package = "metriclearning"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/lvdmaaten/metriclearning"
+   url = "git+https://github.com/lvdmaaten/metriclearning"
 }
 
 description = {

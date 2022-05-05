@@ -2,7 +2,7 @@ package = "gnuplot"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/gnuplot.git",
+   url = "git+https://github.com/torch/gnuplot.git",
 }
 
 description = {

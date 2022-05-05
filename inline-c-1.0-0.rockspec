@@ -2,7 +2,7 @@ package = "inline-c"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---inline-C",
+   url = "git+https://github.com/clementfarabet/lua---inline-C",
    tag = "1.0-0"
 }
 

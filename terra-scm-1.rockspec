@@ -2,7 +2,7 @@ package = "terra"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/zdevito/terra.git",
+   url = "git+https://github.com/zdevito/terra.git",
    branch = "develop",
 }
 

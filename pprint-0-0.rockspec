@@ -2,7 +2,7 @@ package = 'pprint'
 version = '0-0'
 
 source = {
-    url = 'git://github.com/deepmind/lua-pprint.git',
+    url = 'git+https://github.com/deepmind/lua-pprint.git',
     branch = 'master'
 }
 

@@ -2,7 +2,7 @@ package = 'strict'
 version = '0-0'
 
 source = {
-  url = 'git://github.com/deepmind/strict.git',
+  url = 'git+https://github.com/deepmind/strict.git',
   branch = 'master'
 }
 

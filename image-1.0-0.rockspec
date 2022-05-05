@@ -2,7 +2,7 @@ package = "image"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/torch/image"
+   url = "git+https://github.com/torch/image"
 }
 
 description = {

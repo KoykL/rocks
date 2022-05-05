@@ -2,7 +2,7 @@ package = "regress"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/regress.git",
+   url = "git+https://github.com/clementfarabet/regress.git",
    branch = "master",
 }
 

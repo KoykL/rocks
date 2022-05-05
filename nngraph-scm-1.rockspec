@@ -2,7 +2,7 @@ package = "nngraph"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/nngraph",
+   url = "git+https://github.com/torch/nngraph",
    tag = "master"
 }
 

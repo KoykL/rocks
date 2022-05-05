@@ -2,7 +2,7 @@ package = "clnn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/hughperkins/clnn.git",
+   url = "git+https://github.com/hughperkins/clnn.git",
 }
 
 description = {

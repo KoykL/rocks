@@ -2,7 +2,7 @@ package = "ncurses"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/ocallaco/lua-ncurses",
+   url = "git+https://github.com/ocallaco/lua-ncurses",
    branch = "master",
    dir = "lua-ncurses",
 }

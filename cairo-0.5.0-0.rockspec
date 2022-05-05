@@ -2,7 +2,7 @@ package = "cairo"
 version = "0.5.0-0"
 
 source = {
-   url = "git://github.com/torch/cairo-ffi.git",
+   url = "git+https://github.com/torch/cairo-ffi.git",
    tag = "0.5.0-0"
 }
 

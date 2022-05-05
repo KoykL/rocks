@@ -2,7 +2,7 @@ package = "torchnet"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torchnet/torchnet.git"
+   url = "git+https://github.com/torchnet/torchnet.git"
 }
 
 description = {

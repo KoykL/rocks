@@ -2,7 +2,7 @@ package = "ipc"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/twitter/torch-ipc.git",
+   url = "git+https://github.com/twitter/torch-ipc.git",
 }
 
 description = {

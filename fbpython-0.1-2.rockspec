@@ -10,7 +10,7 @@
 package = 'fbpython'
 version = '0.1-2'
 source = {
-    url = 'git://github.com/facebook/fblualib',
+    url = 'git+https://github.com/facebook/fblualib',
 }
 description = {
     summary = 'FB Lua - Python Bridge',

@@ -2,7 +2,7 @@ package = "vector"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/vector.git"
+   url = "git+https://github.com/torch/vector.git"
 }
 
 description = {

@@ -2,7 +2,7 @@ package = "class"
 version = "0.5.0-0"
 
 source = {
-   url = "git://github.com/torch/class.git",
+   url = "git+https://github.com/torch/class.git",
    tag = "0.5.0-0"
 }
 

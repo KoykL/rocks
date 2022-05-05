@@ -2,7 +2,7 @@ package = "dataload"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/Element-Research/dataload",
+   url = "git+https://github.com/Element-Research/dataload",
    tag = "master"
 }
 

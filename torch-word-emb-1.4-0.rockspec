@@ -1,7 +1,7 @@
 package = "torch-word-emb"
 version = "1.4-0"
 source = {
-   url = "git://github.com/iamalbert/torch-word-emb",
+   url = "git+https://github.com/iamalbert/torch-word-emb",
    tag = "v1.4-0"
 }
 description = {

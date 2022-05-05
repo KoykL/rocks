@@ -2,7 +2,7 @@ package = "graphicsmagick"
 version = "1.scm-0"
 
 source = {
-   url = "git://github.com/clementfarabet/graphicsmagick",
+   url = "git+https://github.com/clementfarabet/graphicsmagick",
 }
 
 description = {

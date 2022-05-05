@@ -2,7 +2,7 @@ package = "sundown"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/sundown-ffi.git"
+   url = "git+https://github.com/torch/sundown-ffi.git"
 }
 
 description = {

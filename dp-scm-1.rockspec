@@ -2,7 +2,7 @@ package = "dp"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/nicholas-leonard/dp",
+   url = "git+https://github.com/nicholas-leonard/dp",
    tag = "master"
 }
 

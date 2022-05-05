@@ -2,7 +2,7 @@ package = "thrift"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/twitter/torch-thrift.git",
+   url = "git+https://github.com/twitter/torch-thrift.git",
 }
 
 description = {

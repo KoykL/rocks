@@ -1,7 +1,7 @@
 package = "notifycenter"
 version = "0.0-1"
 source = {
-   url = "git://github.com/aminert/notifycenter-lua",
+   url = "git+https://github.com/aminert/notifycenter-lua",
    tag = "v0.0-1",
 }
 description = {	

@@ -2,7 +2,7 @@ package = "dpnn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/Element-Research/dpnn",
+   url = "git+https://github.com/Element-Research/dpnn",
    tag = "master"
 }
 

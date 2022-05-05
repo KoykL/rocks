@@ -2,7 +2,7 @@ package = "luaforever"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/luaforever",
+   url = "git+https://github.com/clementfarabet/luaforever",
    branch = "master",
 }
 

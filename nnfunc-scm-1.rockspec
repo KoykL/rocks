@@ -2,7 +2,7 @@ package = "nnfunc"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/nnfunc.git",
+   url = "git+https://github.com/clementfarabet/nnfunc.git",
    branch = "master",
 }
 

@@ -2,7 +2,7 @@ package = "tbc"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/gchanan/TemporalConvolutionTBC.git",
+   url = "git+https://github.com/gchanan/TemporalConvolutionTBC.git",
 }
 
 description = {

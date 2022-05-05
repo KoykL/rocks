@@ -2,7 +2,7 @@ package = 'util'
 version = '0-0'
 
 source = {
-    url = 'git://github.com/akfidjeland/lua-util',
+    url = 'git+https://github.com/akfidjeland/lua-util',
     branch = 'master'
 }
 

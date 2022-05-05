@@ -2,7 +2,7 @@ package = "argcheck"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/argcheck.git"
+   url = "git+https://github.com/torch/argcheck.git"
 }
 
 description = {

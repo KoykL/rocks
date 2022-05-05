@@ -2,7 +2,7 @@ package = "autograd"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/twitter/torch-autograd.git",
+   url = "git+https://github.com/twitter/torch-autograd.git",
 }
 
 description = {

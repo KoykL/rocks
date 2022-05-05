@@ -2,7 +2,7 @@ package = "torchmpi"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/facebookresearch/TorchMPI.git"
+   url = "git+https://github.com/facebookresearch/TorchMPI.git"
 }
 
 description = {

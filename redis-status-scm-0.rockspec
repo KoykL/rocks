@@ -2,7 +2,7 @@ package = "redis-status"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/ocallaco/redis-status",
+   url = "git+https://github.com/ocallaco/redis-status",
    branch = "master",
    dir = "redis-status",
 }

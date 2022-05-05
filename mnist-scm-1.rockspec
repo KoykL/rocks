@@ -2,7 +2,7 @@ package = "mnist"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/andresy/mnist.git"
+   url = "git+https://github.com/andresy/mnist.git"
 }
 
 description = {

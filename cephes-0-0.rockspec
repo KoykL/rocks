@@ -2,7 +2,7 @@ package = 'cephes'
 version = '0-0'
 
 source = {
-   url = 'git://github.com/deepmind/torch-cephes.git',
+   url = 'git+https://github.com/deepmind/torch-cephes.git',
    branch = 'master'
 }
 

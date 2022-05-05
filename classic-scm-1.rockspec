@@ -6,7 +6,7 @@ description = {
 }
 
 source = {
-    url = "git://github.com/deepmind/classic.git",
+    url = "git+https://github.com/deepmind/classic.git",
     branch = 'master'
 }
 

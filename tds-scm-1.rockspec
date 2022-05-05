@@ -2,7 +2,7 @@ package = "tds"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/tds.git"
+   url = "git+https://github.com/torch/tds.git"
 }
 
 description = {

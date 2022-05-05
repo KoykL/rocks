@@ -2,7 +2,7 @@ package = "rnn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/rnn",
+   url = "git+https://github.com/torch/rnn",
    tag = "master"
 }
 

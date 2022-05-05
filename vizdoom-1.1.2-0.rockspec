@@ -2,7 +2,7 @@ package = "vizdoom"
 version = "1.1.2-0"
 
 source = {
-    url = "git://github.com/mwydmuch/ViZDoom",
+    url = "git+https://github.com/mwydmuch/ViZDoom",
     tag = "1.1.2"
 }
 

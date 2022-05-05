@@ -2,7 +2,7 @@ package = 'fn'
 version = '0-0'
 
 source = {
-    url = 'git://github.com/akfidjeland/lua-fn.git',
+    url = 'git+https://github.com/akfidjeland/lua-fn.git',
     branch = 'master'
 }
 

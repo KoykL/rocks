@@ -2,7 +2,7 @@ package = "cairo"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/cairo-ffi.git"
+   url = "git+https://github.com/torch/cairo-ffi.git"
 }
 
 description = {

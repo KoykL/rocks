@@ -2,7 +2,7 @@ package = "openblas-conv"
 version = "1.0-1"
 
 source = {
-   url = "git://github.com/mvitez/OpenBLAS-conv.git",
+   url = "git+https://github.com/mvitez/OpenBLAS-conv.git",
 }
 
 description = {

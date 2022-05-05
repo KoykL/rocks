@@ -2,7 +2,7 @@ package = 'totem'
 version = '0-0'
 
 source = {
-	url = 'git://github.com/deepmind/torch-totem.git',
+	url = 'git+https://github.com/deepmind/torch-totem.git',
 	branch = 'master'
 }
 

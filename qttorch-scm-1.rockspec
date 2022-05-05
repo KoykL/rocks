@@ -2,7 +2,7 @@ package = "qttorch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/qttorch.git",
+   url = "git+https://github.com/torch/qttorch.git",
 }
 
 description = {

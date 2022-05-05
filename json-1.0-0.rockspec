@@ -2,7 +2,7 @@ package = "json"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---json",
+   url = "git+https://github.com/clementfarabet/lua---json",
    tag = "1.0-0"
 }
 

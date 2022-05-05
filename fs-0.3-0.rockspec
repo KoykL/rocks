@@ -2,7 +2,7 @@ package = 'fs'
 version = '0.3-0'
 
 source = {
-   url = 'git://github.com/clementfarabet/lua-fs-0.3.git',
+   url = 'git+https://github.com/clementfarabet/lua-fs-0.3.git',
    branch = 'master'
 }
 

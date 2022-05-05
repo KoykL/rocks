@@ -2,7 +2,7 @@ package = "trepl"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/trepl",
+   url = "git+https://github.com/torch/trepl",
    branch = "master",
 }
 

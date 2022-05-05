@@ -2,7 +2,7 @@ package = "matio"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/soumith/matio-ffi.torch.git"
+   url = "git+https://github.com/soumith/matio-ffi.torch.git"
 }
 
 description = {

@@ -2,7 +2,7 @@ package = "curl"
 version = "0.1-0"
 
 source = {
-   url = "git://github.com/clementfarabet/curl",
+   url = "git+https://github.com/clementfarabet/curl",
    branch = "master",
 }
 

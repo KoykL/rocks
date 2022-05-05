@@ -2,7 +2,7 @@ package = "signal"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/soumith/torch-signal.git"
+   url = "git+https://github.com/soumith/torch-signal.git"
 }
 
 description = {

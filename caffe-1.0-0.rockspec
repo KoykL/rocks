@@ -2,7 +2,7 @@ package = "caffe"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/szagoruyko/torch-caffe-binding",
+   url = "git+https://github.com/szagoruyko/torch-caffe-binding",
    tag = "master"
 }
 

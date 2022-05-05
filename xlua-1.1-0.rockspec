@@ -2,7 +2,7 @@ package = "xlua"
 version = "1.1-0"
 
 source = {
-   url = "git://github.com/torch/xlua",
+   url = "git+https://github.com/torch/xlua",
 }
 
 description = {

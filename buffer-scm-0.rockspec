@@ -2,7 +2,7 @@ package = "buffer"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/clementfarabet/buffer",
+   url = "git+https://github.com/clementfarabet/buffer",
    branch = "master"
 }
 

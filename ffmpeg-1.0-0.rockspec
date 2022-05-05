@@ -2,7 +2,7 @@ package = "ffmpeg"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---ffmpeg",
+   url = "git+https://github.com/clementfarabet/lua---ffmpeg",
 }
 
 description = {

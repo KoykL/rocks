@@ -2,7 +2,7 @@ package = "lmdb.torch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/eladhoffer/lmdb.torch.git"
+   url = "git+https://github.com/eladhoffer/lmdb.torch.git"
 }
 
 description = {

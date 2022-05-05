@@ -2,7 +2,7 @@ package = "optim"
 version = "1.0.3-1"
 
 source = {
-   url = "git://github.com/torch/optim",
+   url = "git+https://github.com/torch/optim",
    tag = "1.0.3-1"
 }
 

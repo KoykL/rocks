@@ -2,7 +2,7 @@ package = "redis-async"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/ocallaco/redis-async",
+   url = "git+https://github.com/ocallaco/redis-async",
    branch = "master",
    dir = "redis-async",
 }

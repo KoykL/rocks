@@ -2,7 +2,7 @@ package = "distlearn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/twitter/torch-distlearn.git",
+   url = "git+https://github.com/twitter/torch-distlearn.git",
 }
 
 description = {

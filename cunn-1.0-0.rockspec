@@ -2,7 +2,7 @@ package = "cunn"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/torch/cunn.git",
+   url = "git+https://github.com/torch/cunn.git",
    tag = "1.0-0"
 }
 

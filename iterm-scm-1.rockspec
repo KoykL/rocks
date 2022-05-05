@@ -2,7 +2,7 @@ package = "iterm"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/szagoruyko/iterm.torch",
+   url = "git+https://github.com/szagoruyko/iterm.torch",
 }
 
 description = {

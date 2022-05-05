@@ -2,7 +2,7 @@ package = "dok"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/dok.git",
+   url = "git+https://github.com/torch/dok.git",
 }
 
 description = {

@@ -2,7 +2,7 @@ package = "dataset"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/twitter/torch-dataset.git",
+   url = "git+https://github.com/twitter/torch-dataset.git",
 }
 
 description = {

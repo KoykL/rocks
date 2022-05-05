@@ -2,7 +2,7 @@ package = "nccl"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/ngimel/nccl.torch.git",
+   url = "git+https://github.com/ngimel/nccl.torch.git",
 }
 
 description = {

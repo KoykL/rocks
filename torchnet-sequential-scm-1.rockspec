@@ -2,7 +2,7 @@ package = "torchnet-sequential"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torchnet/sequential.git"
+   url = "git+https://github.com/torchnet/sequential.git"
 }
 
 description = {

@@ -2,7 +2,7 @@ package = "python"
 version = "scm-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---python",
+   url = "git+https://github.com/clementfarabet/lua---python",
 }
 
 description = {

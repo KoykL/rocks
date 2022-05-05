@@ -2,7 +2,7 @@ package = "rational"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/rational.git"
+   url = "git+https://github.com/torch/rational.git"
 }
 
 description = {

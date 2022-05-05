@@ -2,7 +2,7 @@ package = "cv"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/VisionLabs/torch-opencv",
+   url = "git+https://github.com/VisionLabs/torch-opencv",
    tag = "master"
 }
 

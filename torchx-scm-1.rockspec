@@ -2,7 +2,7 @@ package = "torchx"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/nicholas-leonard/torchx",
+   url = "git+https://github.com/nicholas-leonard/torchx",
    tag = "master"
 }
 

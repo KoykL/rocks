@@ -2,7 +2,7 @@ package = "cunnx"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/nicholas-leonard/cunnx",
+   url = "git+https://github.com/nicholas-leonard/cunnx",
    tag = "master"
 }
 

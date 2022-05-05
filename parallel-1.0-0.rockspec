@@ -2,7 +2,7 @@ package = "parallel"
 version = "1.0-0"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---parallel",
+   url = "git+https://github.com/clementfarabet/lua---parallel",
    tag = "1.0-0"
 }
 

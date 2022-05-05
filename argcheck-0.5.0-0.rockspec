@@ -2,7 +2,7 @@ package = "argcheck"
 version = "0.5.0-0"
 
 source = {
-   url = "git://github.com/torch/argcheck.git",
+   url = "git+https://github.com/torch/argcheck.git",
    tag = "0.5.0-0"
 }
 

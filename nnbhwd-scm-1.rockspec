@@ -2,7 +2,7 @@ package = "nnbhwd"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/qassemoquab/nnbhwd",
+   url = "git+https://github.com/qassemoquab/nnbhwd",
    tag = "master"
 }
 

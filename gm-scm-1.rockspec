@@ -2,7 +2,7 @@ package = "gm"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/gm",
+   url = "git+https://github.com/clementfarabet/gm",
    branch = "master"
 }
 

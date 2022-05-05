@@ -2,7 +2,7 @@ package = "thmap"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/thmap",
+   url = "git+https://github.com/clementfarabet/thmap",
    branch = "master",
 }
 

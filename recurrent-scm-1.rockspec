@@ -2,7 +2,7 @@ package = "recurrent"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/eladhoffer/recurrent.torch.git"
+   url = "git+https://github.com/eladhoffer/recurrent.torch.git"
 }
 
 description = {
